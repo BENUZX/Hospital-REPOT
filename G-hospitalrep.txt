@@ -1,0 +1,3 @@
+sistema de gestión hospitalaria 
+
+esta hecho para gestionar datos de un hospital
